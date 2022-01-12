@@ -1,4 +1,4 @@
-<h1> READY FOR BATTLE
+<h1> GET READY FOR BATTLE
 <img width="470" height="270" src="https://i2.wp.com/media1.giphy.com/media/it3siiqqn7vxe/giphy.gif" align=right>
 </h1>
 

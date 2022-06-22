@@ -1,5 +1,5 @@
 <h1> GET READY FOR BATTLE
-<img width="470" height="270" src="https://i2.wp.com/media1.giphy.com/media/it3siiqqn7vxe/giphy.gif" align=right>
+<img width="470" height="270" src="https://user-images.githubusercontent.com/91040581/175135055-7d40d600-5fa1-4b91-a596-b52ed7323a07.gif" align=right>
 </h1>
 
 

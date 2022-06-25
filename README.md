@@ -1,7 +1,6 @@
 <h1> GET READY FOR BATTLE
-<img width="470" height="270" src="https://user-images.githubusercontent.com/91040581/175135055-7d40d600-5fa1-4b91-a596-b52ed7323a07.gif" align=right>
+<img width="470" height="270" src="https://user-images.githubusercontent.com/91040581/175789992-9b6e650d-65fa-49a0-a320-812651876c47.gif" align=right>
 </h1>
-
 
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bayunugroho2022/)](https://github.com/bayunugroho2022/) 

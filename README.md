@@ -1,5 +1,5 @@
 <h1> GET READY FOR BATTLE
-<img width="470" height="270" src="https://user-images.githubusercontent.com/91040581/175789992-9b6e650d-65fa-49a0-a320-812651876c47.gif" align=right>
+<img width="550" height="270" src="https://user-images.githubusercontent.com/91040581/175790063-be0c3f6d-50d5-4cb6-8e3a-8d7275ab5c6b.gif" align=right>
 </h1>
 
 
